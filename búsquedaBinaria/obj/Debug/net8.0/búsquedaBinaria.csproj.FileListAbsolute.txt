@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\bin\Debug\net8.0\búsquedaBinaria.exe
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\bin\Debug\net8.0\búsquedaBinaria.deps.json
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\bin\Debug\net8.0\búsquedaBinaria.runtimeconfig.json
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\bin\Debug\net8.0\búsquedaBinaria.dll
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\bin\Debug\net8.0\búsquedaBinaria.pdb
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.AssemblyInfo.cs
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.sourcelink.json
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.dll
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\refint\búsquedaBinaria.dll
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.pdb
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\búsquedaBinaria.genruntimeconfig.cache
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaBinaria\obj\Debug\net8.0\ref\búsquedaBinaria.dll

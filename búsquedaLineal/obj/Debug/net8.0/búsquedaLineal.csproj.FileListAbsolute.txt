@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.AssemblyInfo.cs
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.sourcelink.json
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\bin\Debug\net8.0\búsquedaLineal.exe
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\bin\Debug\net8.0\búsquedaLineal.deps.json
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\bin\Debug\net8.0\búsquedaLineal.runtimeconfig.json
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\bin\Debug\net8.0\búsquedaLineal.dll
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\bin\Debug\net8.0\búsquedaLineal.pdb
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.dll
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\refint\búsquedaLineal.dll
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.pdb
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\búsquedaLineal.genruntimeconfig.cache
+C:\Users\Home\Documents\GitHub\CA6_Datos_1\búsquedaLineal\obj\Debug\net8.0\ref\búsquedaLineal.dll
