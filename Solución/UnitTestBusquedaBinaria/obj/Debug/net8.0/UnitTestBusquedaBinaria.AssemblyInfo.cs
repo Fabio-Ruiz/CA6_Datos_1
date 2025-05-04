@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnitTestBusquedaBinaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b0b0f072e6acbdee8aad8f1b98fba71e9fe50f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed128527f85442c764f608edddf4ef4720a8e8f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnitTestBusquedaBinaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnitTestBusquedaBinaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

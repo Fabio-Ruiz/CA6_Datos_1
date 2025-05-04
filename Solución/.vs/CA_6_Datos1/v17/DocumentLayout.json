@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\Soluci\u00F3n\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D4B6B95C-02AF-4804-A19F-1B171A6C2095}|UnitTestBusquedaBinaria\\UnitTestBusquedaBinaria.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca6_datos_1\\soluci\u00F3n\\unittestbusquedabinaria\\unittestbusquedabinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B6B95C-02AF-4804-A19F-1B171A6C2095}|UnitTestBusquedaBinaria\\UnitTestBusquedaBinaria.csproj|solutionrelative:unittestbusquedabinaria\\unittestbusquedabinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B92BFDD9-1A75-4F3F-84B8-67555A0C9B1F}|UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca6_datos_1\\soluci\u00F3n\\unittestbusquedalineal\\unittestbusquedalineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B92BFDD9-1A75-4F3F-84B8-67555A0C9B1F}|UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj|solutionrelative:unittestbusquedalineal\\unittestbusquedalineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B92BFDD9-1A75-4F3F-84B8-67555A0C9B1F}|UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca6_datos_1\\soluci\u00F3n\\unittestbusquedalineal\\unittestbusquedalineal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B92BFDD9-1A75-4F3F-84B8-67555A0C9B1F}|UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj|solutionrelative:unittestbusquedalineal\\unittestbusquedalineal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4935E314-C128-436A-ABD2-560E77F7C9D4}|..\\b\u00FAsquedaBinaria\\b\u00FAsquedaBinaria.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca6_datos_1\\b\u00FAsquedabinaria\\b\u00FAsquedabinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4935E314-C128-436A-ABD2-560E77F7C9D4}|..\\b\u00FAsquedaBinaria\\b\u00FAsquedaBinaria.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca6_datos_1\\b\u00FAsquedabinaria\\unittestbusquedabinaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B92BFDD9-1A75-4F3F-84B8-67555A0C9B1F}|UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj|c:\\users\\javier\\onedrive\\documentos\\github\\ca6_datos_1\\soluci\u00F3n\\unittestbusquedalineal\\unittestbusquedalineal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B92BFDD9-1A75-4F3F-84B8-67555A0C9B1F}|UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj|solutionrelative:unittestbusquedalineal\\unittestbusquedalineal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +25,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestBusquedaBinaria.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\Soluci\u00F3n\\UnitTestBusquedaBinaria\\UnitTestBusquedaBinaria.cs",
+              "RelativeDocumentMoniker": "UnitTestBusquedaBinaria\\UnitTestBusquedaBinaria.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\Soluci\u00F3n\\UnitTestBusquedaBinaria\\UnitTestBusquedaBinaria.cs",
+              "RelativeToolTip": "UnitTestBusquedaBinaria\\UnitTestBusquedaBinaria.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAuwH8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:41:55.859Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -30,18 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UnitTestBusquedaBinaria.cs",
-              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\b\u00FAsquedaBinaria\\UnitTestBusquedaBinaria.cs",
-              "RelativeDocumentMoniker": "..\\b\u00FAsquedaBinaria\\UnitTestBusquedaBinaria.cs",
-              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\b\u00FAsquedaBinaria\\UnitTestBusquedaBinaria.cs",
-              "RelativeToolTip": "..\\b\u00FAsquedaBinaria\\UnitTestBusquedaBinaria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "b\u00FAsquedaBinaria.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\b\u00FAsquedaBinaria\\b\u00FAsquedaBinaria.cs",
+              "RelativeDocumentMoniker": "..\\b\u00FAsquedaBinaria\\b\u00FAsquedaBinaria.cs",
+              "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\b\u00FAsquedaBinaria\\b\u00FAsquedaBinaria.cs",
+              "RelativeToolTip": "..\\b\u00FAsquedaBinaria\\b\u00FAsquedaBinaria.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T04:48:02.68Z"
+              "WhenOpened": "2025-05-04T00:37:27.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UnitTestBusquedaLineal.csproj",
               "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\Soluci\u00F3n\\UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj",
               "RelativeDocumentMoniker": "UnitTestBusquedaLineal\\UnitTestBusquedaLineal.csproj",
@@ -53,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTestBusquedaLineal.cs",
               "DocumentMoniker": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\Soluci\u00F3n\\UnitTestBusquedaLineal\\UnitTestBusquedaLineal.cs",
               "RelativeDocumentMoniker": "UnitTestBusquedaLineal\\UnitTestBusquedaLineal.cs",
               "ToolTip": "C:\\Users\\Javier\\OneDrive\\Documentos\\GitHub\\CA6_Datos_1\\Soluci\u00F3n\\UnitTestBusquedaLineal\\UnitTestBusquedaLineal.cs",
               "RelativeToolTip": "UnitTestBusquedaLineal\\UnitTestBusquedaLineal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAcwA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-03T04:47:28.594Z",
               "EditorCaption": ""
